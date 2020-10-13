@@ -1,6 +1,4 @@
-# ECMA-Vue
-JS在vue框架里的练习
-@babel/cli@4.3.1
+# imooc-v
 
 ## Project setup
 ```
