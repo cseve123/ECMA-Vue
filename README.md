@@ -1,4 +1,4 @@
-# imooc-v
+# Js在vue框架里的练习
 
 ## Project setup
 ```
