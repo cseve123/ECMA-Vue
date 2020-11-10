@@ -33,8 +33,8 @@ export default {
       client: new OSS({
         region: 'oss-cn-shanghai',
         bucket: 'ecma-img',
-        accessKeyId: 'LTAI4GDudgFVj8F3cZWuGD4j',
-        accessKeySecret: 'cHPHrXyRhlKyqhf3VJwW2WDI1j0e8i'
+        // accessKeyId: 'LTAI4GDudgFVj8F3cZWuGD4j',
+        // accessKeySecret: 'cHPHrXyRhlKyqhf3VJwW2WDI1j0e8i'
       }),
       imgList: [], // 上传完成的图片
       isUploading: false
