@@ -32,7 +32,7 @@ export default {
     return {
       client: new OSS({
         region: 'oss-cn-shanghai',
-        bucket: 'ecma-img',
+        bucket: 'ecma-img'
         // accessKeyId: 'LTAI4GDudgFVj8F3cZWuGD4j',
         // accessKeySecret: 'cHPHrXyRhlKyqhf3VJwW2WDI1j0e8i'
       }),
