@@ -30,7 +30,7 @@ import OSS from 'ali-oss'
 export default {
   data () {
     return {
-      // accessKeyId 和 accessKeySecret
+      // accessKeyId 和 a ccessKeySecret
       client: new OSS({
         region: 'oss-cn-shanghai',
         bucket: 'ecma-img'
